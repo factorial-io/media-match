@@ -1,0 +1,7 @@
+{
+  "name": "media-match",
+  "repo": "factorial-io/media-match",
+  "version": "0.1.0",
+  "main": "media.match.js",
+  "scripts": ["media.match.js"]
+}
